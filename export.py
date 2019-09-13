@@ -22,7 +22,7 @@ chrome_options.add_argument("--headless")
 chrome_options.add_argument("--disable-print-preview")
 
 # Using chrome to access web
-driver = webdriver.Chrome("C:/Users/Anyssa Iwamoto/Downloads/chromedriver_win32/chromedriver.exe")
+driver = webdriver.Chrome("C:/Users/ANY2147015/Documents/installations/chromedriver.exe")
 driver.maximize_window()
 
 # Open website
